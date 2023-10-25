@@ -13,5 +13,4 @@ pyrogram
 aiogram
 redis
 asyncio
-json
 colored
