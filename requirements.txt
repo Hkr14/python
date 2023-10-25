@@ -12,7 +12,6 @@ names
 pyrogram
 aiogram
 redis
-os
 random
 asyncio
 json
