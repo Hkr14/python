@@ -12,7 +12,6 @@ names
 pyrogram
 aiogram
 redis
-random
 asyncio
 json
 colored
