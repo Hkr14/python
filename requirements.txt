@@ -1,4 +1,5 @@
-﻿certifi
+gates
+certifi
 idna
 pyaes
 Pyrogram
