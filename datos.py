@@ -8,7 +8,7 @@ from datetime import datetime
 video = 'https://tenor.com/bWFoR.gif'
 onwer= 1924666696
 admin = 1924666696
-idchat = [-4016876694, -1001946602339, -1001852098461]
+idchat = [-4016876694, -1001946602339, -1001852098461, -1001919625425]
 
 CMD = ["/", "."]
 spam_times = 10
