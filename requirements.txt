@@ -1,3 +1,5 @@
+aiohttp
+aiofiles
 random_address
 gates
 certifi
