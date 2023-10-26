@@ -4,8 +4,8 @@ _start = """<b><a href="tg://resolve?domain=RaceXtChkBot">RaceXtBot • [🤖]</
 
 －－－－－－－－－－－－－－
 [ BOT STAFF ]
-Creador: <b><a href="tg://resolve?domain=Sarcehkr">SarceDev[Owner]</a></b>
-Admin
+⊗Creador: <b><a href="tg://resolve?domain=Sarcehkr">SarceDev[Owner]</a></b>
+⊗Admin
 </b>
 """
 
