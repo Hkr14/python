@@ -7,7 +7,6 @@ _start = """<b><a href="tg://resolve?domain=RaceXtChkBot">RaceXtBot • [🤖]</
 ⊗Creador: <b><a href="tg://resolve?domain=Sarcehkr">SarceDev[Owner]</a></b>
 ⊗Admin: <b><a href="tg://resolve?domain=ImCharmeleon">ImCharmeleon[Admin]</a></b>
 ⊗Admin: <b><a href="tg://resolve?domain=Sarcehkr">SarceDev[Owner]</a></b>
-⊗Admin:
 </b>
 """
 
