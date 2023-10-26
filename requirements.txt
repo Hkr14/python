@@ -1,3 +1,4 @@
+speedtest
 aiohttp
 aiofiles
 random_address
