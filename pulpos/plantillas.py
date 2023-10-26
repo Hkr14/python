@@ -1,6 +1,7 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 _start = """<b><a href="tg://resolve?domain=RaceXtChkBot">RaceXtBot • [🤖]</a>\n\n¡Hola! Soy RaceXtChkBot Estoy A Tus Ordenes ¿Quieres Conocer Mis funciones? Primero Debes Registrarte Con /register\n\nPodras Utilizar Mis Gstes Y herramientas Gratis Solo En El Grupo Oficial Muchas Gracias.
+
 Creador: <b><a href="tg://resolve?domain=Sarcehkr">SarceDev[Owner]</a></b>
 </b>
 """
