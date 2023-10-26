@@ -3,7 +3,7 @@ from configs import Config
 from pyrogram import Client
 
 bot = Client(
-    "KimuraBot",
+    "RaceXtBot",
     api_hash=Config.API_HASH,   
     api_id=Config.API_ID,
     bot_token=Config.BOT_TOKEN,
