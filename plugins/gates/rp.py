@@ -21,7 +21,7 @@ from datos import idchat
 @Client.on_message(filters.command(["rp"], ["/", "."]))
 async def cr(_, message: Message):
     
-    with open(file='plugins/usuarios/premium.txt',mode='r+',encoding='utf-8') as archivo:
+    with open('plugins/usuarios/premium.txt',mode='r+',encoding='utf-8') as archivo:
       x = archivo.readlines()
       if str(message.from_user.id) + '\n' in x or message.chat.id in idchat:
 
