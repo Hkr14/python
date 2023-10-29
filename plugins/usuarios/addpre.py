@@ -8,7 +8,7 @@ from pyrogram.types import (
 
 @Client.on_message(filters.command(["addpre"], ["/", "."]))
 async def addpre(_, m: Message):
-    with open(file='plugins/usuarios/admins.txt',mode='r+',encoding='utf-8') as archivo:
+    with open('plugins/usuarios/admins.txt',mode='r+',encoding='utf-8') as archivo:
         x = archivo.readlines()
         if str(m.from_user.id) + '\n' in x:
             data = m.text.split(" ", 2)
