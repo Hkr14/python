@@ -1,3 +1,4 @@
+from datos import admin
 from pyrogram import Client, filters
 from pyrogram.types import (
     Message,
